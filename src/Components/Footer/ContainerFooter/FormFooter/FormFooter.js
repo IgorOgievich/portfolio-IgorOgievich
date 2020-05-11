@@ -9,23 +9,23 @@ function FormFooter() {
   return (
           <div className={a.form}>
            <div className={a.ad}>
-               <a href="">
-                   <img src={ImgInstagram} alt=""/>
+               <a href="https://www.instagram.com/ileonidovich/" target="_blank">
+                   <img src={ImgInstagram} />
                </a>
            </div>
             <div className={a.ad}>
-                <a href="">
-                    <img src={ImgTelegram} alt=""/>
+                <a href="" target="_blank">
+                    <img src={ImgTelegram} />
                 </a>
             </div>
             <div className={a.ad}>
-                <a href="">
-                    <img src={ImgLinkidin} alt=""/>
+                <a href="http://linkedin.com/in/игорь-огиевич-859444189" target="_blank">
+                    <img src={ImgLinkidin} />
                 </a>
             </div>
             <div className={a.ad}>
-                <a href="">
-                    <img src={ImgVK} alt=""/>
+                <a href="https://vk.com/id131833915" target="_blank">
+                    <img src={ImgVK} />
                 </a>
             </div>
           </div>

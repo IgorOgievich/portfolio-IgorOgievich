@@ -9,19 +9,19 @@ import Contacts from "./Components/Contacts/Contacts";
 import Footer from "./Components/Footer/Footer";
 
 function App() {
-  return (
-    <div className="App">
-<div className="portfolio">
-    <Header/>
-    <Main/>
-    <Skills/>
-    <Projects/>
-    <Slogan/>
-    <Contacts/>
-    <Footer/>
-</div>
-    </div>
-  );
+    return (
+        <div className="App">
+            <div className="portfolio">
+                <Header/>
+                <Main/>
+                <Skills/>
+                <Projects/>
+                <Slogan/>
+                <Contacts/>
+                <Footer/>
+            </div>
+        </div>
+    );
 }
 
 export default App;

@@ -8,8 +8,8 @@
 .nameFooter {
     /*border: 1px solid;*/
     /*height: 30px;*/
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -24,21 +24,21 @@
 .footer {
     display: flex;
     justify-content: center;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 5px;
+    padding-bottom: 15px;
     /*border: 1px solid;*/
 }
 
 .for {
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 5px;
+    padding-bottom: 10px;
     /*border: 1px solid;*/
 }
 .blockLine{
     height: 2px;
     width: 200px;
-    margin: 30px 0;
-    background-color: #ea548d;
+    margin: 15px 0;
+    background-color: #3a8799;
 }
 
 /*@media screen and (max-width: 500px) {*/
