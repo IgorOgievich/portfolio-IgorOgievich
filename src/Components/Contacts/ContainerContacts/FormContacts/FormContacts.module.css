@@ -1,0 +1,33 @@
+.inputs {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.inputs input {
+    width: 500px;
+    height: 30px;
+    background-color: #252527;
+    border: #252527;
+    color: white;
+}
+.inputs textarea{
+    width: 500px;
+    height: 150px;
+    background-color: #252527;
+    border: #252527;
+    color: white;
+}
+.inputTwo{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+@media screen and (max-width: 560px) {
+    .inputs input {
+        width: 290px;
+    }
+
+    .inputs textarea {
+        width: 100%;
+    }
+}

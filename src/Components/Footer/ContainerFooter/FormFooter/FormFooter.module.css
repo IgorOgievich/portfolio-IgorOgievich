@@ -1,0 +1,26 @@
+.form {
+    display: flex;
+    justify-content: space-around;
+    /*background-color: #ea548d;*/
+}
+.ad {
+    height: 60px;
+    width: 60px;
+    /*background-color: white;*/
+    border: 1px solid;
+    border-radius: 50%;
+}
+.ad img{
+    height: 40px;
+    width: 40px;
+    padding-top: 15%;
+}
+
+@media screen and (max-width: 500px) {
+    .form {
+        display: flex;
+        /*flex-direction: column;*/
+        height: 100%;
+
+    }
+}

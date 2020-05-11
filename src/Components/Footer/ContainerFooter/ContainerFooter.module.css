@@ -1,0 +1,48 @@
+.component {
+    width: 85%;
+    /*border: 1px solid;*/
+    display: flex;
+    flex-direction: column;
+}
+
+.nameFooter {
+    /*border: 1px solid;*/
+    /*height: 30px;*/
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.2;
+    letter-spacing: 5px;
+    font-weight: 600;
+    font-size: 36px;
+    text-transform: capitalize;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    /*border: 1px solid;*/
+}
+
+.for {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    /*border: 1px solid;*/
+}
+.blockLine{
+    height: 2px;
+    width: 200px;
+    margin: 30px 0;
+    background-color: #ea548d;
+}
+
+/*@media screen and (max-width: 500px) {*/
+/*    .for {*/
+/*        height: 100%;*/
+/*    }*/
+/*}*/

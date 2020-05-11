@@ -1,0 +1,39 @@
+.component {
+    width: 85%;
+    /*border: 1px solid;*/
+    display: flex;
+    flex-direction: column;
+}
+.nameSkills {
+    height: 20%;
+    text-align: center;
+    /*border: 1px solid;*/
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.2;
+    letter-spacing: 5px;
+    font-weight: 600;
+    font-size: 36px;
+    text-transform: capitalize;
+}
+.mySkills {
+    /*text-align: center;*/
+    /*border: 1px solid;*/
+    display: flex;
+    justify-content: space-around;
+    /*height: 100%;*/
+    flex-wrap: wrap;
+}
+
+.blockLine{
+    height: 2px;
+    width: 200px;
+    margin: 30px 0;
+    background-color: #ea548d;
+}
+
+
+

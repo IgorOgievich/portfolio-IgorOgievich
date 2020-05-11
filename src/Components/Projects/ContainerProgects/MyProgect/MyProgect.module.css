@@ -1,0 +1,21 @@
+.nameOneSkill {
+    display: flex;
+    flex-direction: column;
+    /*width: 300px;*/
+    /*height: 100px;*/
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.descriptionOneSkill {
+    /*background-image: url("./src/Img/instagram.png");*/
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 200px;
+}
+
+
+
+
