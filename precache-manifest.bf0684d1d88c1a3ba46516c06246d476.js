@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b7c985cd16803c59a581734d6905d366",
+    "revision": "19ce98c2fde287ec863b1b9c84725d3b",
     "url": "/portfolio-IgorOgievich/index.html"
   },
   {
-    "revision": "7d1d46890f13427bcf67",
-    "url": "/portfolio-IgorOgievich/static/css/main.ca10e442.chunk.css"
+    "revision": "db5736f49921b97aa5e1",
+    "url": "/portfolio-IgorOgievich/static/css/main.0ec9c759.chunk.css"
   },
   {
     "revision": "4e23e65c95e0dc6e3fef",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio-IgorOgievich/static/js/2.8cc49ab1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7d1d46890f13427bcf67",
+    "revision": "db5736f49921b97aa5e1",
     "url": "/portfolio-IgorOgievich/static/js/main.e3ea9b8d.chunk.js"
   },
   {
@@ -50,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4df15128efb6773ba7b5c23316430068",
     "url": "/portfolio-IgorOgievich/static/media/linkedin.4df15128.png"
+  },
+  {
+    "revision": "e554eb3b88eb91b18318398735b00986",
+    "url": "/portfolio-IgorOgievich/static/media/project.e554eb3b.jpg"
   },
   {
     "revision": "cba272a52912911eb2a0d7c9b8877e6d",
