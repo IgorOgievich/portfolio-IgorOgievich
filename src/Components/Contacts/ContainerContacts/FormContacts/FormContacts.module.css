@@ -10,6 +10,7 @@
     background-color: #252527;
     border: #252527;
     color: white;
+    padding: 10px 10px;
 }
 .inputs textarea{
     width: 500px;
@@ -17,6 +18,7 @@
     background-color: #252527;
     border: #252527;
     color: white;
+    padding: 10px 10px;
 }
 .inputTwo{
     padding-top: 20px;
@@ -24,7 +26,7 @@
 }
 @media screen and (max-width: 560px) {
     .inputs input {
-        width: 290px;
+        width: 100%;
     }
 
     .inputs textarea {
