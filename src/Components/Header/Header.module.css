@@ -6,9 +6,9 @@
     position: fixed;
     z-index: 2;
     width: 100%;
-    /*#a0a0a0*/
 
 }
+
 .container {
     width: 85%;
     display: flex;

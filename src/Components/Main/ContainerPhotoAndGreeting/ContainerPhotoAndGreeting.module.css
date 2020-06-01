@@ -1,6 +1,5 @@
 .container {
     width: 85%;
-    /*border: 1px solid;*/
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -14,12 +13,13 @@
     left: -15px;
     top: -25px;
 }
-.photo:hover{
+
+.photo:hover {
     transform: scale(1.1, 1.1);
     transition: 500ms;
 }
 
-.photo:before{
+.photo:before {
     content: "";
     position: absolute;
     width: 300px;
@@ -68,6 +68,7 @@ h1 {
         flex-direction: column;
     }
 }
+
 @media screen and (max-width: 930px) {
     .greeting span:nth-child(2) span:before {
         width: 0px;

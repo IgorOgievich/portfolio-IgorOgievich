@@ -14,12 +14,13 @@
     width: 250px;
     height: 200px;
 }
+
 .descriptionOneSkill a {
     text-decoration: none;
     color: black;
 }
 
-.descriptionOneSkill a:hover{
+.descriptionOneSkill a:hover {
     color: #3a8799;
 }
 

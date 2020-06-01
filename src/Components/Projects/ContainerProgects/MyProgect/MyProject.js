@@ -4,9 +4,9 @@ import a from '../MyProgect/MyProgect.module.css';
 function MyProject(props) {
     return (
 
-        <div className={a.OneSkill}>
+        <div>
             <div className={a.descriptionOneSkill}>
-                <a className={a.refOneSkill} href={props.href} target="_blank">
+                <a href={props.href} target="_blank">
                     Смотреть</a>
             </div>
             <div className={a.nameOneSkill}>
