@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio-IgorOgievich/static/css/main.37f9887c.chunk.css",
+    "main.css": "/portfolio-IgorOgievich/static/css/main.b53a54db.chunk.css",
     "main.js": "/portfolio-IgorOgievich/static/js/main.3fcf55e6.chunk.js",
     "main.js.map": "/portfolio-IgorOgievich/static/js/main.3fcf55e6.chunk.js.map",
     "runtime-main.js": "/portfolio-IgorOgievich/static/js/runtime-main.c3329d79.js",
@@ -8,9 +8,9 @@
     "static/js/2.b0bd2009.chunk.js": "/portfolio-IgorOgievich/static/js/2.b0bd2009.chunk.js",
     "static/js/2.b0bd2009.chunk.js.map": "/portfolio-IgorOgievich/static/js/2.b0bd2009.chunk.js.map",
     "index.html": "/portfolio-IgorOgievich/index.html",
-    "precache-manifest.6efca3c3137aa762023f94ee26d912f9.js": "/portfolio-IgorOgievich/precache-manifest.6efca3c3137aa762023f94ee26d912f9.js",
+    "precache-manifest.b6b646cbdf941750f83a3e29e98f013d.js": "/portfolio-IgorOgievich/precache-manifest.b6b646cbdf941750f83a3e29e98f013d.js",
     "service-worker.js": "/portfolio-IgorOgievich/service-worker.js",
-    "static/css/main.37f9887c.chunk.css.map": "/portfolio-IgorOgievich/static/css/main.37f9887c.chunk.css.map",
+    "static/css/main.b53a54db.chunk.css.map": "/portfolio-IgorOgievich/static/css/main.b53a54db.chunk.css.map",
     "static/js/2.b0bd2009.chunk.js.LICENSE.txt": "/portfolio-IgorOgievich/static/js/2.b0bd2009.chunk.js.LICENSE.txt",
     "static/media/PikPng.com_google-play-store-logo_2690057.png": "/portfolio-IgorOgievich/static/media/PikPng.com_google-play-store-logo_2690057.666f5042.png",
     "static/media/code.png": "/portfolio-IgorOgievich/static/media/code.de9fde9c.png",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.c3329d79.js",
     "static/js/2.b0bd2009.chunk.js",
-    "static/css/main.37f9887c.chunk.css",
+    "static/css/main.b53a54db.chunk.css",
     "static/js/main.3fcf55e6.chunk.js"
   ]
 }

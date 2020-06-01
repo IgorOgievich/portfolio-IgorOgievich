@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "efbe27e6f2b8f1b6b2e0dba308e7a9f9",
+    "revision": "a8ac3bcc2cde4d32944e22ec864c0694",
     "url": "/portfolio-IgorOgievich/index.html"
   },
   {
-    "revision": "168ee7ecff69569fb902",
-    "url": "/portfolio-IgorOgievich/static/css/main.37f9887c.chunk.css"
+    "revision": "cc6d13d01722c6c64143",
+    "url": "/portfolio-IgorOgievich/static/css/main.b53a54db.chunk.css"
   },
   {
     "revision": "5b468416143614673163",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio-IgorOgievich/static/js/2.b0bd2009.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "168ee7ecff69569fb902",
+    "revision": "cc6d13d01722c6c64143",
     "url": "/portfolio-IgorOgievich/static/js/main.3fcf55e6.chunk.js"
   },
   {
