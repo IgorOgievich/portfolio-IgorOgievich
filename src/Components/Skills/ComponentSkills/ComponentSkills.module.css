@@ -1,16 +1,14 @@
 .component {
     width: 85%;
-    /*border: 1px solid;*/
     display: flex;
     flex-direction: column;
-    padding-bottom: 100px;
+    padding-bottom: 50px;
     padding-top: 100px;
 }
 
 .nameSkills {
     height: 20%;
     text-align: center;
-    /*border: 1px solid;*/
     padding-top: 20px;
     display: flex;
     align-items: center;
@@ -24,8 +22,6 @@
 }
 
 .mySkills {
-    /*text-align: center;*/
-    /*border: 1px solid;*/
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;

@@ -14,10 +14,10 @@
     top: -25px;
 }
 
-.photo:hover {
-    transform: scale(1.1, 1.1);
-    transition: 500ms;
-}
+/*.photo:hover {*/
+/*    transform: scale(1.1, 1.1);*/
+/*    transition: 500ms;*/
+/*}*/
 
 .photo:before {
     content: "";
