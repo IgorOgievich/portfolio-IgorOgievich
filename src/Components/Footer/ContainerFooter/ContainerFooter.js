@@ -1,10 +1,12 @@
 import React from 'react';
 import a from '../ContainerFooter/ContainerFooter.module.css';
 import FormFooter from "./FormFooter/FormFooter";
+import Fade from 'react-reveal/Fade';
 
 
 function ContainerFooter() {
   return (
+      <Fade>
     <div className={a.component}>
       <div className={a.nameFooter}>
           <span>Игорь Огиевич</span>
@@ -14,9 +16,10 @@ function ContainerFooter() {
          <FormFooter/>
       </div>
       <div className={a.footer}>
-        2019 все права защищены
+        2020 все права защищены
       </div>
     </div>
+      </Fade>
   );
 }
 

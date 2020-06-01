@@ -6,11 +6,11 @@ function MyProject(props) {
 
         <div className={a.OneSkill}>
             <div className={a.descriptionOneSkill}>
-                <a className={a.refOneSkill} href="">
+                <a className={a.refOneSkill} href={props.href} target="_blank">
                     Смотреть</a>
             </div>
             <div className={a.nameOneSkill}>
-                <p>Описание проекта</p>
+                <p>{props.description}</p>
             </div>
         </div>
     );

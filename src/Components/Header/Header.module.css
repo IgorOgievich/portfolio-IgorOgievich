@@ -1,12 +1,12 @@
 .header {
-    background: #3a8799;
-    background: linear-gradient(to right, #f6f1d3, #648880, #293f50);
-    height: 80px;
+    background-color: #282828;
+    height: 70px;
     display: flex;
     justify-content: center;
     position: fixed;
     z-index: 2;
     width: 100%;
+    /*#a0a0a0*/
 
 }
 .container {
@@ -16,6 +16,7 @@
     align-items: center;
 
 }
+
 @media screen and (max-width: 680px) {
     .container {
         width: 70%;

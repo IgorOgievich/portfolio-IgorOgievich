@@ -1,13 +1,12 @@
 .component {
     width: 85%;
-    /*border: 1px solid;*/
     display: flex;
     flex-direction: column;
+    padding-bottom: 30px;
+    padding-top: 50px;
 }
 
 .nameFooter {
-    /*border: 1px solid;*/
-    /*height: 30px;*/
     padding-top: 5px;
     padding-bottom: 5px;
     display: flex;
@@ -22,17 +21,12 @@
 }
 
 .footer {
-    display: flex;
-    justify-content: center;
-    padding-top: 5px;
-    padding-bottom: 15px;
-    /*border: 1px solid;*/
+    padding-top: 30px;
 }
 
 .for {
     padding-top: 5px;
     padding-bottom: 10px;
-    /*border: 1px solid;*/
 }
 .blockLine{
     height: 2px;
@@ -40,9 +34,3 @@
     margin: 15px 0;
     background-color: #3a8799;
 }
-
-/*@media screen and (max-width: 500px) {*/
-/*    .for {*/
-/*        height: 100%;*/
-/*    }*/
-/*}*/

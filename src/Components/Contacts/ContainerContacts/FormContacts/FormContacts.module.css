@@ -6,11 +6,12 @@
 
 .inputs input {
     width: 500px;
-    height: 30px;
+    height: 20px;
     background-color: #252527;
     border: #252527;
     color: white;
     padding: 10px 10px;
+
 }
 .inputs textarea{
     width: 500px;

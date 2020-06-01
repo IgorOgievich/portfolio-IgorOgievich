@@ -3,7 +3,7 @@ import a from '../ContainerPhotoAndGreeting/ContainerPhotoAndGreeting.module.css
 
 function ContainerPhotoAndGreeting() {
     return (
-            <div className={a.container}>
+            <div  id={"main"} className={a.container}>
                 <div className={a.greeting}>
                     <span>Привет!</span>
                     <span>Я <span>Игорь Огиевич</span></span>

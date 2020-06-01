@@ -1,20 +1,26 @@
 .nameOneSkill {
     display: flex;
     flex-direction: column;
-    /*width: 300px;*/
-    /*height: 100px;*/
     background-color: rgba(255, 255, 255, 0.1);
+    text-align: center;
 }
 
 .descriptionOneSkill {
     background-image: url("../../../../Img/project.jpg");
     background-size: 250px, 200px;
-    background-color: aqua;
     display: flex;
     justify-content: center;
     align-items: center;
     width: 250px;
     height: 200px;
+}
+.descriptionOneSkill a {
+    text-decoration: none;
+    color: black;
+}
+
+.descriptionOneSkill a:hover{
+    color: #3a8799;
 }
 
 

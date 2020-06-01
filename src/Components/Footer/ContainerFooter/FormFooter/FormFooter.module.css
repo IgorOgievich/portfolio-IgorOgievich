@@ -7,10 +7,12 @@
 .ad {
     height: 60px;
     width: 60px;
-    /*background-color: white;*/
-    border: 1px solid;
     border-radius: 50%;
 }
+.ad:hover{
+    border: 1px solid white;
+}
+
 .ad img{
     height: 40px;
     width: 40px;

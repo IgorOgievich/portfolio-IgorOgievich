@@ -1,10 +1,12 @@
 import React from 'react';
 import a from '../ContainerContacts/ContainerContacts.module.css';
 import FormContacts from "./FormContacts/FormContacts";
+import Fade from 'react-reveal/Fade';
 
 function ContainerContacts() {
     return (
-        <div className={a.component}>
+        <Fade>
+        <div id = {'contacts'} className={a.component}>
             <div className={a.nameContacts}>
                 <span> Контакты </span>
                 <div className={a.blockLine}> </div>
@@ -18,6 +20,7 @@ function ContainerContacts() {
                 <button>Отправить</button>
             </div>
         </div>
+        </Fade>
     );
 }
 

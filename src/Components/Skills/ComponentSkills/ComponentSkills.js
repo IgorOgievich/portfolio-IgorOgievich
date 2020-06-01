@@ -7,10 +7,12 @@ import ImgRedux from "../../../Img/language.png"
 import ImgHTML from "../../../Img/code.png"
 import ImgCss from "../../../Img/css.png"
 import ImgGit from "../../../Img/git.png"
+import Fade from 'react-reveal/Fade';
 
 function ComponentSkills(props) {
     return (
-        <div className={a.component}>
+        <Fade>
+        <div id={"skills"} className={a.component}>
             <div className={a.nameSkills}>
                 <span>Мои Скиллы</span>
                 <div className={a.blockLine}></div>
@@ -39,6 +41,7 @@ function ComponentSkills(props) {
                           description="Git — распределённая система управления версиями."/>
             </div>
         </div>
+            </Fade>
     );
 }
 
