@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio-IgorOgievich/static/css/main.0ec9c759.chunk.css",
-    "main.js": "/portfolio-IgorOgievich/static/js/main.e3ea9b8d.chunk.js",
-    "main.js.map": "/portfolio-IgorOgievich/static/js/main.e3ea9b8d.chunk.js.map",
+    "main.css": "/portfolio-IgorOgievich/static/css/main.37f9887c.chunk.css",
+    "main.js": "/portfolio-IgorOgievich/static/js/main.3fcf55e6.chunk.js",
+    "main.js.map": "/portfolio-IgorOgievich/static/js/main.3fcf55e6.chunk.js.map",
     "runtime-main.js": "/portfolio-IgorOgievich/static/js/runtime-main.c3329d79.js",
     "runtime-main.js.map": "/portfolio-IgorOgievich/static/js/runtime-main.c3329d79.js.map",
-    "static/js/2.8cc49ab1.chunk.js": "/portfolio-IgorOgievich/static/js/2.8cc49ab1.chunk.js",
-    "static/js/2.8cc49ab1.chunk.js.map": "/portfolio-IgorOgievich/static/js/2.8cc49ab1.chunk.js.map",
+    "static/js/2.b0bd2009.chunk.js": "/portfolio-IgorOgievich/static/js/2.b0bd2009.chunk.js",
+    "static/js/2.b0bd2009.chunk.js.map": "/portfolio-IgorOgievich/static/js/2.b0bd2009.chunk.js.map",
     "index.html": "/portfolio-IgorOgievich/index.html",
-    "precache-manifest.bf0684d1d88c1a3ba46516c06246d476.js": "/portfolio-IgorOgievich/precache-manifest.bf0684d1d88c1a3ba46516c06246d476.js",
+    "precache-manifest.6efca3c3137aa762023f94ee26d912f9.js": "/portfolio-IgorOgievich/precache-manifest.6efca3c3137aa762023f94ee26d912f9.js",
     "service-worker.js": "/portfolio-IgorOgievich/service-worker.js",
-    "static/css/main.0ec9c759.chunk.css.map": "/portfolio-IgorOgievich/static/css/main.0ec9c759.chunk.css.map",
-    "static/js/2.8cc49ab1.chunk.js.LICENSE.txt": "/portfolio-IgorOgievich/static/js/2.8cc49ab1.chunk.js.LICENSE.txt",
+    "static/css/main.37f9887c.chunk.css.map": "/portfolio-IgorOgievich/static/css/main.37f9887c.chunk.css.map",
+    "static/js/2.b0bd2009.chunk.js.LICENSE.txt": "/portfolio-IgorOgievich/static/js/2.b0bd2009.chunk.js.LICENSE.txt",
     "static/media/PikPng.com_google-play-store-logo_2690057.png": "/portfolio-IgorOgievich/static/media/PikPng.com_google-play-store-logo_2690057.666f5042.png",
     "static/media/code.png": "/portfolio-IgorOgievich/static/media/code.de9fde9c.png",
     "static/media/css.png": "/portfolio-IgorOgievich/static/media/css.763e7a44.png",
@@ -25,8 +25,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.c3329d79.js",
-    "static/js/2.8cc49ab1.chunk.js",
-    "static/css/main.0ec9c759.chunk.css",
-    "static/js/main.e3ea9b8d.chunk.js"
+    "static/js/2.b0bd2009.chunk.js",
+    "static/css/main.37f9887c.chunk.css",
+    "static/js/main.3fcf55e6.chunk.js"
   ]
 }
