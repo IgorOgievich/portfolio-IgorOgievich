@@ -2,6 +2,16 @@ import React from 'react';
 import a from '../ContainerContacts/ContainerContacts.module.css';
 import FormContacts from "./FormContacts/FormContacts";
 import Fade from 'react-reveal/Fade';
+import {AxiosInstance as axios} from "axios";
+
+let Igor = () => {
+
+    alert("Igorek");
+   axios.post("http://localhost:3110/sendMessage")
+       .then(()=> {
+           alert("Твоё сообщение отправлено")
+    })
+};
 
 function ContainerContacts() {
     return (
@@ -17,7 +27,7 @@ function ContainerContacts() {
                 </div>
             </div>
             <div className={a.oneButton}>
-                <button>Отправить</button>
+                <button onClick={Igor}>Отправить</button>
             </div>
         </div>
         </Fade>

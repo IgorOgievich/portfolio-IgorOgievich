@@ -1,5 +1,6 @@
 import React from 'react';
 import a from '../ContainerPhotoAndGreeting/ContainerPhotoAndGreeting.module.css';
+import MyPhoto from '../../../Img/MyPhoto.jpg'
 
 function ContainerPhotoAndGreeting() {
     return (
@@ -10,7 +11,7 @@ function ContainerPhotoAndGreeting() {
                 <h1>Я front-end разработчик</h1>
             </div>
             <div className={a.photo}>
-                <img src="https://sun9-6.userapi.com/c836227/v836227915/38ceb/RsIQA5w9mYA.jpg" alt="Igor Ogievich"/>
+                <img src={MyPhoto} alt="Igor Ogievich"/>
             </div>
         </div>
     );

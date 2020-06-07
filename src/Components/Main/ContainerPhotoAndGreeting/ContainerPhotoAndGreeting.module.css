@@ -14,10 +14,10 @@
     top: -25px;
 }
 
-/*.photo:hover {*/
-/*    transform: scale(1.1, 1.1);*/
-/*    transition: 500ms;*/
-/*}*/
+.photo:hover {
+    transform: scale(1.1, 1.1);
+    transition: 500ms;
+}
 
 .photo:before {
     content: "";
@@ -70,6 +70,11 @@ h1 {
     .greeting {
        padding-top: 100px;
     }
+    .photo:hover {
+        transform: none;
+        transition: none;
+    }
+
 }
 
 @media screen and (max-width: 930px) {

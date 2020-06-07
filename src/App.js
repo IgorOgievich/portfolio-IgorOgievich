@@ -7,7 +7,7 @@ import Projects from "./Components/Projects/Projects";
 import Slogan from "./Components/Slogan/Slogan";
 import Contacts from "./Components/Contacts/Contacts";
 import Footer from "./Components/Footer/Footer";
-import Particles from 'react-particles-js';
+import Particles from "react-particles-js";
 
 const particlesOptions = {
     particles: {
@@ -24,7 +24,6 @@ const particlesOptions = {
 function App() {
     return (
         <div className="App">
-            {/*<div className="portfolio">*/}
                 <Particles className="particles"
                            params={particlesOptions}/>
                 <Header/>
@@ -35,7 +34,6 @@ function App() {
                 <Contacts/>
                 <Footer/>
             </div>
-        // </div>
     );
 }
 

@@ -5,7 +5,7 @@
     background-color: rgba(255, 255, 255, 0.1);
     transform: rotate(45deg);
     justify-content: center;
-    margin-top: 10px;
+    margin-top: 40px;
     margin-left: 30%;
     margin-bottom: 40px;
 }
@@ -13,8 +13,6 @@
 .descriptionOneSkill {
     width: 270px;
     height: 200px;
-    /*background-color: gold;*/
-    /*border: 1px solid;*/
     text-align: center;
     margin-bottom: 30px;
 }
