@@ -1,36 +1,72 @@
+
+.formContacts {
+    display: flex;
+    flex-direction: column;
+}
+
+.oneButton button {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    border: none;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.2;
+    color: white;
+    outline: none;
+    background: none;
+    padding-top: 20px;
+}
+
+.oneButton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    position: relative;
+    margin: 0 0 15px;
+    padding: 5px 20px;
+}
+
+.oneButton:after {
+    content: "";
+    position: absolute;
+    width: 50%;
+    height: 5px;
+    background-color: #3a8799;
+    bottom: 0;
+    z-index: -1;
+}
+
+.oneButton:hover::after {
+    border-radius: 10px;
+    width: 100%;
+    height: 60%;
+    transition: 0.5s;
+}
+
 .inputs {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    height: 280px;
+    width: auto;
 }
 
 .inputs input {
-    width: 500px;
     height: 20px;
     background-color: #252527;
     border: #252527;
     color: white;
     padding: 10px 10px;
-
 }
-.inputs textarea{
-    width: 500px;
+
+.inputs textarea {
     height: 150px;
     background-color: #252527;
     border: #252527;
     color: white;
     padding: 10px 10px;
-}
-.inputTwo{
-    padding-top: 20px;
-    padding-bottom: 20px;
-}
-@media screen and (max-width: 560px) {
-    .inputs input {
-        width: 100%;
-    }
-
-    .inputs textarea {
-        width: 100%;
-    }
+    resize: none;
 }
