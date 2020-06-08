@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a78996102fa0740c44b361923db44268",
+    "revision": "316cc610e9df6d82eb0bc4a936f6d3c1",
     "url": "/portfolio-IgorOgievich/index.html"
   },
   {
-    "revision": "31120ebd1f7902bbf217",
-    "url": "/portfolio-IgorOgievich/static/css/main.284c5217.chunk.css"
+    "revision": "2cf9be1ebaf192784013",
+    "url": "/portfolio-IgorOgievich/static/css/main.0cf8898c.chunk.css"
   },
   {
-    "revision": "5b468416143614673163",
-    "url": "/portfolio-IgorOgievich/static/js/2.b0bd2009.chunk.js"
+    "revision": "1373b7fbf180b79aa07b",
+    "url": "/portfolio-IgorOgievich/static/js/2.b00417f4.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/portfolio-IgorOgievich/static/js/2.b0bd2009.chunk.js.LICENSE.txt"
+    "url": "/portfolio-IgorOgievich/static/js/2.b00417f4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "31120ebd1f7902bbf217",
-    "url": "/portfolio-IgorOgievich/static/js/main.3fcf55e6.chunk.js"
+    "revision": "2cf9be1ebaf192784013",
+    "url": "/portfolio-IgorOgievich/static/js/main.525f7819.chunk.js"
   },
   {
     "revision": "051c7e63367b8fd640fd",
     "url": "/portfolio-IgorOgievich/static/js/runtime-main.c3329d79.js"
+  },
+  {
+    "revision": "61e187e5ae5b967f80771b5af7f34dc6",
+    "url": "/portfolio-IgorOgievich/static/media/MyPhoto.61e187e5.jpg"
   },
   {
     "revision": "666f5042b8212d7259151863da48f4ad",
