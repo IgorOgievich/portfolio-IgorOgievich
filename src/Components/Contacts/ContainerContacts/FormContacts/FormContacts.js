@@ -43,7 +43,7 @@ class FormContacts extends React.Component {
        let valueInputLastName = this.state.valueInputLastName;
        let valueMessage = this.state.valueMessage;
        this.ButtonDisabled(true);
-        axios.post("http://localhost:3110/sendMessage", {
+        axios.post("https://smtp-nodejs-server-ogievich.herokuapp.com/sendMessage", {
             name: valueInputName,
             lastName: valueInputLastName,
             message: valueMessage
